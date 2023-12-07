@@ -45,11 +45,11 @@ const Home = () => {
           <img src={logo1} alt="hello" />
           </Link>
           
-          <Link to="/portfolio" className="link-nav">PORTFOLIO</Link>
-          <Link to="/team" className="link-nav">TEAM</Link>
-          <Link to="/careers" className="link-nav">CAREERS</Link>
-          <Link to="/summit" className="link-nav">SUMMIT</Link>
-          <Link to="/stairway" className="link-nav">STAIRWAY</Link>
+          <Link to="/portfolio" className="link-nav2">PORTFOLIO</Link>
+          <Link to="/team" className="link-nav2">TEAM</Link>
+          <Link to="/careers" className="link-nav2">CAREERS</Link>
+          <Link to="/summit" className="link-nav2">SUMMIT</Link>
+          <Link to="/stairway" className="link-nav2">STAIRWAY</Link>
         </div>
       </div>
 
