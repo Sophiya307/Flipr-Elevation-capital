@@ -1,0 +1,153 @@
+*{
+    /* background-color: #ffff; */
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+.nv {
+    padding: 0px 0px ;
+    font-size:  12px;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.4px;
+    box-sizing: border-box;
+    color:#000023;
+    background-color: #FFFFFF;
+    display:flex;
+    align-items: center;
+    padding-left: 50px;
+    flex-direction: row;
+    margin-left: 4px;
+    margin-bottom: 0rem;
+}
+.team-section-2 {
+    background-color: #000023 !important;
+    padding: 2rem;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+
+.body-span {
+    color: #3283FF;
+}
+.bg-team{
+    background-color: white;
+}
+.h1-home-team {
+    font-family: "Mars Condensed", Arial; 
+    font-weight: 700;
+    font-display: swap;
+    text-transform: uppercase;
+    display: block;
+    font-size: 4rem;
+    margin-top: 2px;
+    padding-left: 40px;
+    letter-spacing: -0.2rem;
+    line-height: 1.4;
+    font-display: swap;
+    text-transform: uppercase;
+    padding-top: 4rem;
+}
+.dropdown{
+    width: 25%;
+    border: 1px solid #000023;
+    cursor: pointer;
+    height: 100%;
+    display: flex;
+    padding: 0 27px 0 12px;
+    z-index: 2;
+    position: relative;
+    align-items: center;
+    white-space: nowrap;
+    background-color: #FFFFFF;
+}
+/* Card.css */
+
+.card {
+    position: relative;
+    overflow: hidden;
+    background-color: white;
+    transition: background-color 0.5s ease;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 0.9722vw;
+  }
+  
+  .card:hover {
+    background-color: black;
+  }
+  
+  .card-body {
+    color: black;
+    transition: color 0.5s ease;
+  }
+  
+  .card:hover + .card-body,
+  .card-body:hover {
+    color: white;
+  }
+  
+  .card-image {
+    border: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    font-family: "object-fit: cover;";
+    font-weight: 400;
+    height: 439.7px;
+    line-height: 24px;
+    object-fit: cover;
+    opacity: 1;
+    overflow-clip-margin: content-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 0.5s cubic-bezier(0.26, 1.04, 0.54, 1);
+    width: 100%;
+    will-change: opacity;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+.footer-team{
+    background-color: #000023;
+    color: black;
+    margin-top: 10rem;
+    margin-bottom: 12rem;
+    /* font-family: "Mars Condensed", Arial;
+    font-weight: 400;
+    line-height: 0.9; */
+  }
+.container4 {
+    margin: 2rem;
+    background-color: #000023;
+  }
+.p-head{
+    opacity: 0.5;
+    
+}
+.p-head1{
+    opacity: 0.5;
+    margin-left: 1.5rem;
+}
+.input{
+    border: none;
+    background-color: #000023;
+    color: white;
+    opacity: 0.5;
+    margin-left: 2rem;
+    padding: 12px 0px;
+    width: 20rem;
+    height: 4rem;
+}
+.input-btn{
+    border: none;
+    background-color: #000023;
+    color: white;
+    opacity: 0.5;
+    margin: 0px 0px 0px 8px;
+}
+.footer-text{
+    margin: 2rem;
+    font-size: 44px;
+}

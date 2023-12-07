@@ -1,0 +1,242 @@
+.container1{
+    background-color: rgb(245, 240, 235);
+    box-sizing: border-box;
+    
+}
+.container2{
+    background-color: #000023;
+
+}
+.container3{
+    background-color: #FFFFFF;
+}
+
+.container{
+    margin: 0px;
+    padding: 0px;
+}
+
+.p-header{
+    display: flex;
+    background: #000;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    flex-direction: column;
+    color: #FFFFFF;
+    line-height: 1.5;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    margin-bottom: 0px;
+    
+}
+.link-nav{
+    text-decoration: none;
+    color: #000023;
+}
+.nv-1{
+    padding: 0px 0px ;
+    font-size:  12px;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.4px;
+    box-sizing: border-box;
+    color: #000023;
+    background-color: rgb(245, 240, 235);
+    display:flex;
+    align-items: center;
+    padding-left: 50px;
+    flex-direction: row;
+    margin-left: 4px;
+    margin-bottom: 0rem;
+    text-decoration: none;
+}
+
+.nv-2{
+    padding: 0px 0px ;
+    font-size:  12px;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.4px;
+    box-sizing: border-box;
+    color: rgb(245, 240, 235) ;
+    background-color: #000023;
+    display:flex;
+    align-items: center;
+    padding-left: 50px;
+    flex-direction: row;
+    margin-left: 4px;
+    margin-bottom: 0rem;
+}
+.nv-3{
+    padding: 0px 0px ;
+    font-size:  12px;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.4px;
+    box-sizing: border-box;
+    color:#000023;
+    background-color: #FFFFFF;
+    display:flex;
+    align-items: center;
+    padding-left: 50px;
+    flex-direction: row;
+    margin-left: 4px;
+    margin-bottom: 0rem;
+}
+
+
+
+.h1-home{
+    font-family: "Mars Condensed", Arial; 
+    font-weight: 700;
+    font-display: swap;
+    text-transform: uppercase;
+    display: block;
+    font-size: 6rem;
+    margin-top: 2px;
+    padding-left: 40px;
+    letter-spacing: -0.7rem;
+    line-height: 1.4;
+    font-display: swap;
+    text-transform: uppercase;
+}
+.h1-home2{
+    font-family: "Mars Condensed", Arial; 
+    font-weight: 700;
+    font-display: swap;
+    text-transform: uppercase;
+    display: block;
+    font-size: 6rem;
+    margin-top: 2px;
+    padding-left: 40px;
+    letter-spacing: -0.7rem;
+    line-height: 1.4;
+    font-display: swap;
+    text-transform: uppercase;
+    color: rgb(245, 240, 235) ;
+}
+
+.h1-home3{
+    font-family: "Mars Condensed", Arial; 
+    font-weight: 700;
+    font-display: swap;
+    text-transform: uppercase;
+    display: block;
+    font-size: 6rem;
+    margin-top: 2px;
+    padding-left: 40px;
+    letter-spacing: -0.7rem;
+    line-height: 1.4;
+    font-display: swap;
+    text-transform: uppercase;
+    color: #000023;;
+
+}
+.p-home{
+    display: block;
+    /* margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    font-size: 21.335px;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0px;
+    padding-left: 40px;
+    padding-right: 180px;
+    max-width: 85%;
+}
+.p-home2{
+    display: block;
+    font-size: 21.335px;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0px;
+    padding-left: 40px;
+    padding-right: 180px;
+    max-width: 85%;
+    color: rgb(245, 240, 235) ;
+
+    
+}
+.p-home3{
+    display: block;
+    font-size: 21.335px;
+    font-family: "Object Sans", "Lucida Sans", Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0px;
+    padding-left: 40px;
+    padding-right: 180px;
+    max-width: 85%;
+    color:#000023;
+
+}
+.img-fluid{
+    padding: 0px;
+    margin: 0px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+
+}
+.btn-1{
+    padding: 0px 20px;
+    background-color: rgb(0, 0, 35);
+    color: rgb(255, 255, 255);
+    
+    cursor: pointer;
+    margin: 0px;
+    display: flex;
+    padding: 12px;
+    overflow: hidden;
+    position: relative;
+    min-height: 42px;
+    transition: background-color 0.25s ease 0s, color 0.25s ease 0s;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 12px;
+    text-align: center;
+    font-family: "Mars Condensed", Arial;
+    font-weight: 400;
+    line-height: 0.9;
+    border: none;
+}
+.container4 {
+    margin: 2rem;
+    background-color: #000023;
+  }
+.p-head{
+    opacity: 0.5;
+    
+}
+.p-head1{
+    opacity: 0.5;
+    margin-left: 1.5rem;
+}
+.input{
+    border: none;
+    background-color: #000023;
+    color: white;
+    opacity: 0.5;
+    margin-left: 2rem;
+    padding: 12px 0px;
+    width: 20rem;
+    height: 4rem;
+}
+.input-btn{
+    border: none;
+    background-color: #000023;
+    color: white;
+    opacity: 0.5;
+    margin: 0px 0px 0px 8px;
+}
+.footer-text{
+    margin: 2rem;
+    font-size: 44px;
+}

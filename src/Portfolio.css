@@ -1,0 +1,30 @@
+.container-portfolio{
+    background-color: #FFFF;
+}
+.h1-home-portfolio{
+    font-family: "Mars Condensed", Arial; 
+    font-weight: 700;
+    font-display: swap;
+    text-transform: uppercase;
+    display: block;
+    font-size: 4rem;
+    margin-top: 2px;
+    padding-left: 40px;
+    letter-spacing: -0.3rem;
+    line-height: 1.4;
+    font-display: swap;
+    background-color: #FFFF;
+    text-transform: uppercase;
+    margin-bottom: 0rem;
+}
+.portfolio-list{
+    padding: 2rem;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 1rem;
+    margin-top: 7rem;
+
+}
+.portfolio-top{
+    padding-right: 15rem;
+}
